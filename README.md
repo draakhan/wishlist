@@ -3,7 +3,7 @@
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
 * T-shirty z OtherTees, rozmiar M:
-  * [Born in the Eighties](https://www.othertees.com/sklep/koszulki/product/193/Born-In-The-Eighties)
+  * [Born in the Eighties](https://www.othertees.com/sklep/koszulki/product/193/Born-In-The-Eighties) - kolor: black
   * [Autumn Cat](https://www.othertees.com/sklep/koszulki/product/1423/koszulka-jesienny-kotek) - kolor: black
   * [Bella Ciao](https://www.othertees.com/sklep/koszulki/product/1042/koszulka-bella-ciao) - kolor: black
   * [Cat Lord](https://www.othertees.com/sklep/koszulki/product/1137/Koszulka-cat-lord) - kolor: black
