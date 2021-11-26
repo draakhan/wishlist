@@ -6,6 +6,8 @@
   * Grzegorz Gawlik: "Projekt 100 wulkanów"
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
   * Maté Gabor: "When the Body Says No"
+  * Sabała-Zielińska Beata: "TOPR: Żeby inni mogli przeżyć"
+  * Adam Wajrak: "Wilki"
 * T-shirty z OtherTees, rozmiar M:
   * [Born in the Eighties](https://www.othertees.com/sklep/koszulki/product/193/Born-In-The-Eighties) - kolor: black
   * [Autumn Cat](https://www.othertees.com/sklep/koszulki/product/1423/koszulka-jesienny-kotek) - kolor: black
