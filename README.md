@@ -2,6 +2,10 @@
 
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
+* Książki (mogą być używane)
+  * Grzegorz Gawlik: "Projekt 100 wulkanów"
+  * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
+  * Maté Gabor: "When the Body Says No"
 * T-shirty z OtherTees, rozmiar M:
   * [Born in the Eighties](https://www.othertees.com/sklep/koszulki/product/193/Born-In-The-Eighties) - kolor: black
   * [Autumn Cat](https://www.othertees.com/sklep/koszulki/product/1423/koszulka-jesienny-kotek) - kolor: black
