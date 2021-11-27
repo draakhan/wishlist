@@ -17,7 +17,7 @@
   * Paulina Łopatniuk: "Patolodzy. Panie doktorze, czy to rak?"
   * Jacek Karczewski: "Noc sów"
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
-* Stary, mechaniczny budzik, taki co go można rozłożyć w całości na części pierwsze
+* Stary, ale działający, mechaniczny budzik, taki co go można rozłożyć w całości na części pierwsze
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
 * T-shirty z OtherTees, rozmiar M:
   * [Autumn Cat](https://www.othertees.com/sklep/koszulki/product/1423/koszulka-jesienny-kotek) - kolor: black
