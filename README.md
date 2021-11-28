@@ -20,6 +20,13 @@
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
 * Stary, duży, ale działający, mechaniczny budzik, taki co go można rozłożyć w całości na części pierwsze i nie wymaga profesjonalnych narzędzi zegarmistrzowskich poza śrubokrętem i młotkiem :)
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
+* Modele z Robotime (linki do aukcji są przykładowe, tylko by pokazać, które modele mi się podobają, nie sprawdzałem, czy to najtańsze aukcje):
+  * [Mini szklarnia](https://allegro.pl/oferta/robotime-skladany-malowany-model-mini-szklarnia-11298677417)
+  * [Zegar sowa](https://allegro.pl/oferta/robotime-puzzle-3d-dla-doroslych-zegar-sowa-11465453527)
+  * [Lokomotywa](https://allegro.pl/oferta/robotime-drewniany-model-puzzle-3d-lokomotywa-10563359959)
+  * [Ciężarówka](https://allegro.pl/oferta/robotime-drewniany-model-puzzle-3d-ciezarowka-10556236646)
+  * [Sterowiec](https://allegro.pl/oferta/robotime-drewniany-model-puzzle-3d-parowiec-10563181758)
+  * [Łazik marsjański](https://allegro.pl/oferta/robotime-drewniany-pojazd-na-energie-sloneczna-10563040702)
 * T-shirty z OtherTees, rozmiar M:
   * [Autumn Cat](https://www.othertees.com/sklep/koszulki/product/1423/koszulka-jesienny-kotek) - kolor: black
   * [Bella Ciao](https://www.othertees.com/sklep/koszulki/product/1042/koszulka-bella-ciao) - kolor: black
