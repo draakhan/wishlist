@@ -16,6 +16,7 @@
   * Frank Henry Netter MD "Atlas anatomii człowieka" w wersji z polskim mianownictwem anatomicznym
   * Paulina Łopatniuk: "Patolodzy. Panie doktorze, czy to rak?"
   * Jacek Karczewski: "Noc sów"
+  * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
 * Stary, ale działający, mechaniczny budzik, taki co go można rozłożyć w całości na części pierwsze
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
