@@ -18,7 +18,6 @@
   * Jacek Karczewski: "Noc sów"
   * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
 * [Slowpresso](https://sklep.karamuz.pl/slowpresso-zestaw-do-parzenia-kawy)
-* Stary, duży, ale działający, mechaniczny budzik, taki co go można rozłożyć w całości na części pierwsze i nie wymaga profesjonalnych narzędzi zegarmistrzowskich poza śrubokrętem i młotkiem :)
 * [Chorobeł Autysteł](https://www.facebook.com/chorobelyizmoroby/photos/a.1025149551024141/1750247101847712) - wersja koniecznie ta ze zdjęcia, tęczowa, nie złota
 * Modele z Robotime (linki do aukcji są przykładowe, tylko by pokazać, które modele mi się podobają, nie sprawdzałem, czy to najtańsze aukcje):
   * [Mini szklarnia](https://allegro.pl/oferta/robotime-skladany-malowany-model-mini-szklarnia-11298677417)
