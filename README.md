@@ -2,7 +2,6 @@
 
 * Książki (mogą być używane)
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
-  * Maté Gabor: "When the Body Says No"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
