@@ -10,8 +10,15 @@
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
   * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
+* [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
+* Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
+
+
+
+
+#### Może kiedyś, nie teraz, ku pamięci
+
 * Modele z Robotime (linki do aukcji są przykładowe, tylko by pokazać, które modele mi się podobają, nie sprawdzałem, czy to najtańsze aukcje):
-  * [Mini szklarnia](https://allegro.pl/oferta/robotime-skladany-malowany-model-mini-szklarnia-11298677417)
   * [Zegar sowa](https://allegro.pl/oferta/robotime-puzzle-3d-dla-doroslych-zegar-sowa-11465453527)
   * [Ciężarówka](https://allegro.pl/oferta/robotime-drewniany-model-puzzle-3d-ciezarowka-10556236646)
   * [Sterowiec](https://allegro.pl/oferta/robotime-drewniany-model-puzzle-3d-parowiec-10563181758)
@@ -29,3 +36,4 @@
   * [Steampunk Bunny](https://www.othertees.com/sklep/koszulki/product/1318/Koszulka-Steampunkowy-Krolik) - kolor: heather grey
   * [Unicorn Wannabe](https://www.othertees.com/sklep/koszulki/product/1204/Unicorn-Wannabe) - kolor: purple
   * [Warrior of Love](https://www.othertees.com/sklep/koszulki/product/1113/Koszulka-Pyskata-Czarodziejka-z-Ksiezyca) - kolor: black
+ 
