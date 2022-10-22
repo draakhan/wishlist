@@ -12,6 +12,7 @@
   * Adam Wajrak: "Wilki"
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
+  * Dan Moore: "Księga zagadek Sherlocka Holmesa" - ta wybitnie nie powinna być używana ;) 
 * Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich (mogą być używane):
   * Dorota Borodaj: "Ręcznie robione"
   * Zbigniew Nawara, Inga Szwedler: "Spotkania z przyrodą. Rośliny"
