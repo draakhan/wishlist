@@ -1,7 +1,10 @@
 # Wishlista Draakhana
 
+* [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
+* Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
 * Książki (mogą być używane)
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
+  * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
@@ -9,9 +12,6 @@
   * Adam Wajrak: "Wilki"
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
-  * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
-* [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
-* Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
 
 
 
@@ -36,4 +36,6 @@
   * [Steampunk Bunny](https://www.othertees.com/sklep/koszulki/product/1318/Koszulka-Steampunkowy-Krolik) - kolor: heather grey
   * [Unicorn Wannabe](https://www.othertees.com/sklep/koszulki/product/1204/Unicorn-Wannabe) - kolor: purple
   * [Warrior of Love](https://www.othertees.com/sklep/koszulki/product/1113/Koszulka-Pyskata-Czarodziejka-z-Ksiezyca) - kolor: black
+* Książki (mogą być używane)
+  * R.G. Wasson, A. Hofmann , C.A.P. Ruck: "Droga do Eleusis"
  
