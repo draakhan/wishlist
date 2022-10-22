@@ -13,10 +13,11 @@
   * Jacek Karczewski: "Noc sów"
 * Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich:
   * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
+  * Zbigniew Nawara, Inga Szwedler: "Spotkania z przyrodą. Rośliny"
+  * Rebecca Millar: "Makrama pięciu żywiołów. 20 projektów pełnych harmonii"
+  * [Biblia węzłów. 200 najbardziej przydatnych żeglarskich węzłów](https://lubimyczytac.pl/ksiazka/282266/biblia-wezlow-200-najbardziej-przydatnych-zeglarskich-wezlow)
   * Sylwia Janczyszyn: "Pirografia bez tajemnic"
   * Thomas Svardal: "Ogień. Pierwotna siła natury"
-  * Zbigniew Nawara, Inga Szwedler: "Spotkania z przyrodą. Rośliny"
-  * [Biblia węzłów. 200 najbardziej przydatnych żeglarskich węzłów](https://lubimyczytac.pl/ksiazka/282266/biblia-wezlow-200-najbardziej-przydatnych-zeglarskich-wezlow)
 * Zestaw do uwarzenia piwa, czyli: 
   * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
   * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
