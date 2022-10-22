@@ -9,7 +9,6 @@
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
   * Barry Lopez: "O wilkach i ludziach"
-  * Adam Wajrak: "Wilki"
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
   * Dan Moore: "Księga zagadek Sherlocka Holmesa" - ta wybitnie nie powinna być używana ;) 
@@ -53,4 +52,5 @@
   * [Warrior of Love](https://www.othertees.com/sklep/koszulki/product/1113/Koszulka-Pyskata-Czarodziejka-z-Ksiezyca) - kolor: black
 * Książki (mogą być używane)
   * R.G. Wasson, A. Hofmann , C.A.P. Ruck: "Droga do Eleusis"
+  * Adam Wajrak: "Wilki"
  
