@@ -4,6 +4,7 @@
 * Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
 * Książki (mogą być używane):
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
+  * Paweł Kapusta: "Gad. Spowiedź klawisza"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
