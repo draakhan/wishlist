@@ -12,6 +12,10 @@
   * Adam Wajrak: "Wilki"
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
+* Zestaw do uwarzenia piwa, czyli: 
+  * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
+  * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
+  * [Dropsy do refermentacji](https://browamator.pl/produkty,2?search=dropsy&seaAdv=1) (też najlepiej te, które są w opisie brew-kitu)
 
 
 
