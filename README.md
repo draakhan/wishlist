@@ -24,6 +24,7 @@
   * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
   * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
   * [Dropsy do refermentacji](https://browamator.pl/produkty,2?search=dropsy&seaAdv=1) (też najlepiej te, które są w opisie brew-kitu)
+* [Maskotka Kłapouchego (na licencji Disneya)](https://allegro.pl/kategoria/zabawki-maskotki-11837?string=k%C5%82apouchy%20disney&stan=nowe&super-sprzedawca=1)
 
 
 
