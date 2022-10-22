@@ -15,6 +15,7 @@
   * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
   * Sylwia Janczyszyn: "Pirografia bez tajemnic"
   * Thomas Svardal: "Ogień. Pierwotna siła natury"
+  * Zbigniew Nawara, Inga Szwedler: "Spotkania z przyrodą. Rośliny"
   * [Biblia węzłów. 200 najbardziej przydatnych żeglarskich węzłów](https://lubimyczytac.pl/ksiazka/282266/biblia-wezlow-200-najbardziej-przydatnych-zeglarskich-wezlow)
 * Zestaw do uwarzenia piwa, czyli: 
   * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
