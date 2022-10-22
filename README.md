@@ -2,9 +2,8 @@
 
 * [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
 * Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
-* Książki (mogą być używane)
+* Książki (mogą być używane):
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
-  * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
@@ -12,6 +11,9 @@
   * Adam Wajrak: "Wilki"
   * Jerzy Vetulani: "A w konopiach strach"
   * Jacek Karczewski: "Noc sów"
+* Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich:
+  * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
+  * Sylwia Janczyszyn: "Pirografia bez tajemnic"
 * Zestaw do uwarzenia piwa, czyli: 
   * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
   * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
