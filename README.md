@@ -53,4 +53,6 @@
 * Książki (mogą być używane)
   * R.G. Wasson, A. Hofmann , C.A.P. Ruck: "Droga do Eleusis"
   * Adam Wajrak: "Wilki"
+  * Coś o zegarmistrzostwie, a konkretniej o zegarkach mechanicznych naręcznych
+* Mikroskop (ale to najpierw muszę poszukać, jaki model będzie dobry) + zestawy gotowych preparatów + zestaw do przygotowywania własnych preparatów
  
