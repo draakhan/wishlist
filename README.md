@@ -54,5 +54,9 @@
   * R.G. Wasson, A. Hofmann , C.A.P. Ruck: "Droga do Eleusis"
   * Adam Wajrak: "Wilki"
   * Coś o zegarmistrzostwie, a konkretniej o zegarkach mechanicznych naręcznych
+  * Coś do nauki gry w pokera
+  * Nauka malowania akwaralemi, pastelami
+  * Nauka rysowania mangi
+  * Jakieś książki z nauką origami, od prostych do zaawansowanych modeli
 * Mikroskop (ale to najpierw muszę poszukać, jaki model będzie dobry) + zestawy gotowych preparatów + zestaw do przygotowywania własnych preparatów
  
