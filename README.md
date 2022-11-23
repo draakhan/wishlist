@@ -2,6 +2,7 @@
 
 * [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
 * Rozszerzenie "Ptaki Oceanii" do planszówki "Na skrzydłach"
+* [Inside3 Mean0 Labirynth Cube](https://www.amazon.com/dp/B00GHOJRN4)
 * Książki (mogą być używane):
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
