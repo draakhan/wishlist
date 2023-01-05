@@ -4,6 +4,7 @@
 * [Inside3 Mean0 Labirynth Cube](https://www.amazon.com/dp/B00GHOJRN4)
 * Książki (mogą być używane):
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
+  * Saundra K. Ciccarelli, J. Noland White: "Psychologia" (najnowsze możliwe wydanie)
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Jerzy Dziewulski: "O terrorystach w Polsce"
