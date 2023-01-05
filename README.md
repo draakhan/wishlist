@@ -14,25 +14,13 @@
   * Maciej Bohatyrewicz, Michał Dudek, Małgorzata Rak: "Polowanie na goryle, czyli nieoczywista medycyna ratunkowa"
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
-  * Barry Lopez: "O wilkach i ludziach"
-  * Jerzy Vetulani: "A w konopiach strach"
-  * Jacek Karczewski: "Noc sów"
-  * Dan Moore: "Księga zagadek Sherlocka Holmesa" - ta wybitnie nie powinna być używana ;) 
 * Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich (mogą być używane):
-  * Dorota Borodaj: "Ręcznie robione"
-  * Zbigniew Nawara, Inga Szwedler: "Spotkania z przyrodą. Rośliny"
   * Rebecca Millar: "Makrama pięciu żywiołów. 20 projektów pełnych harmonii"
   * [Biblia węzłów. 200 najbardziej przydatnych żeglarskich węzłów](https://lubimyczytac.pl/ksiazka/282266/biblia-wezlow-200-najbardziej-przydatnych-zeglarskich-wezlow)
   * Sylwia Janczyszyn: "Pirografia bez tajemnic"
   * Thomas Svardal: "Ogień. Pierwotna siła natury"
   * [Agnieszka Bojrakowska-Przeniosło: "Frywolitki. Biżuteria. Ozdoby. Dekoracje"](https://lubimyczytac.pl/ksiazka/182094/frywolitki-bizuteria---ozdoby---dekoracje) 
   * Ewa Landowska: "Piękna litera. Italika - zeszyt ćwiczeń do kaligrafii"
-* Zestaw do uwarzenia piwa, czyli: 
-  * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
-  * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
-  * [Dropsy do refermentacji](https://browamator.pl/produkty,2?search=dropsy&seaAdv=1) (też najlepiej te, które są w opisie brew-kitu)
-* [Maskotka Kłapouchego (na licencji Disneya)](https://allegro.pl/kategoria/zabawki-maskotki-11837?string=k%C5%82apouchy%20disney&stan=nowe&super-sprzedawca=1)
-
 
 
 
@@ -66,3 +54,11 @@
   * Jakieś książki z nauką origami, od prostych do zaawansowanych modeli
 * Mikroskop (ale to najpierw muszę poszukać, jaki model będzie dobry) + zestawy gotowych preparatów + zestaw do przygotowywania własnych preparatów
 * Lniana koszula z etno wzorami 
+
+## Już mam, ale notatka ku pamięci, bo tu są ważne informacje:
+
+* Zestaw do uwarzenia piwa, czyli: 
+  * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
+  * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
+  * [Dropsy do refermentacji](https://browamator.pl/produkty,2?search=dropsy&seaAdv=1) (też najlepiej te, które są w opisie brew-kitu)
+
