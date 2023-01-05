@@ -14,7 +14,7 @@
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
   * Jakub Żulczyk: "Informacja zwrotna"
-  * Łukasz Orbitowski: "Wigilijne psy i inne opowieści"
+  * Łukasz Orbitowski: "Wigilijne psy i inne opowieści" (nowsze, przeredagowane wydanie)
 * Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich (mogą być używane):
   * Rebecca Millar: "Makrama pięciu żywiołów. 20 projektów pełnych harmonii"
   * [Biblia węzłów. 200 najbardziej przydatnych żeglarskich węzłów](https://lubimyczytac.pl/ksiazka/282266/biblia-wezlow-200-najbardziej-przydatnych-zeglarskich-wezlow)
