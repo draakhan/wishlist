@@ -4,7 +4,7 @@
 * [Inside3 Mean0 Labirynth Cube](https://www.amazon.com/dp/B00GHOJRN4)
 * Książki (mogą być używane):
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
-  * Saundra K. Ciccarelli, J. Noland White: "Psychologia" (najnowsze możliwe wydanie)
+  * John J. Palmer: "Jak warzyć piwo. Kompendium wiedzy piwowara domowego" (wydanie z 2021 roku lub nowsze)
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Jerzy Dziewulski: "O terrorystach w Polsce"
@@ -63,4 +63,3 @@
   * [Brew-kit](https://browamator.pl/produkty/piwo/piwo-surowce/brew-kity-gotowce,2,23?sort=9)
   * [Ekstrakt słodowy w syropie](https://browamator.pl/produkty/piwo/piwo-surowce/ekstrakty-slodowe/w-syropie-lme,2,45) (**UWAGA:** w opisie brew-kitu jest opisane, jakiego rodzaju ekstrakt należy użyć, np. jasny, ciemny, ale, itd., jakby nie było informacji w opisie, to można [zadzwonić do sklepu](https://browamator.pl/kontakt,12) i dopytać) 
   * [Dropsy do refermentacji](https://browamator.pl/produkty,2?search=dropsy&seaAdv=1) (też najlepiej te, które są w opisie brew-kitu)
-
