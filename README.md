@@ -3,11 +3,20 @@
 * [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
 * [Inside3 Mean0 Labirynth Cube](https://www.amazon.com/dp/B00GHOJRN4)
 * Książki (mogą być używane):
+  * Russell A. Barkley, Christine M. Benton: "Taking Charge of Adult Adhd, Second Edition: Proven Strategies to Succeed at Work, at Home, and in Relationships" (ważne: Second Edition)
   * Małgorzata Halber: "Hałas"
   * Katherine May: "Przesilenie. Droga do siebie, kiedy przytłacza cię świat" 
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
+  * Adam Robiński: "Pałace na wodzie. Tropem polskich bobrów"
   * Jonathan Haidt: "Prawy umysł. Dlaczego dobrych ludzi dzieli religia i polityka?"
+  * Kacper Pobłocki: "Chamstwo"
+  * Kamil Janicki: "Warcholstwo. Prawdziwa historia polskiej szlachty"
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
+  * Jan Gołębiowski: "Umysł przestępcy. Tajniki kryminalnego profilowania psychologicznego"
+  * Richard Taylor: "Jak człowiek staje się mordercą. Mroczne opowieści psychiatry sądowego"
+  * Anabel Gonzalez: "To (nie) ja. Jak zaakceptować dawne traumy i pójść dalej"
+  * Tracey Shors: "Trauma Nasza Powszednia: Jak mózg reaguje na stres, lęk i bolesne wspomnienia"
+  * Roxanne Emery, Richard Pink: "Brudne pranie. ADHD u dorosłych i jak sobie z nim radzić"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Jerzy Dziewulski: "O terrorystach w Polsce"
   * Andrzej Kowalski: "Rosyjski sztylet"
