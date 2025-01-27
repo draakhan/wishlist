@@ -3,8 +3,10 @@
 * [Mini szklarnia z Robotime](https://allegro.pl/oferta/diy-miniaturowy-domek-drewniany-szklarnia-12705536943) (linki do aukcji przykładowy, tylko by pokazać, nie sprawdzałem, czy to najtańsza aukcje)
 * [Inside3 Mean0 Labirynth Cube](https://www.amazon.com/dp/B00GHOJRN4)
 * Książki (mogą być używane):
+  * Małgorzata Halber: "Hałas"
+  * Katherine May: "Przesilenie. Droga do siebie, kiedy przytłacza cię świat" 
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
-  * John J. Palmer: "Jak warzyć piwo. Kompendium wiedzy piwowara domowego" (wydanie z 2021 roku lub nowsze)
+  * Jonathan Haidt: "Prawy umysł. Dlaczego dobrych ludzi dzieli religia i polityka?"
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
   * Łukasz Kamieński: "Nowy wspaniały żołnierz. Rewolucja biotechnologiczna i wojna w XXI wieku"
   * Jerzy Dziewulski: "O terrorystach w Polsce"
@@ -47,6 +49,7 @@
   * [Unicorn Wannabe](https://www.othertees.com/sklep/koszulki/product/1204/Unicorn-Wannabe) - kolor: purple
   * [Warrior of Love](https://www.othertees.com/sklep/koszulki/product/1113/Koszulka-Pyskata-Czarodziejka-z-Ksiezyca) - kolor: black
 * Książki (mogą być używane)
+  * John J. Palmer: "Jak warzyć piwo. Kompendium wiedzy piwowara domowego" (wydanie z 2021 roku lub nowsze)
   * R.G. Wasson, A. Hofmann , C.A.P. Ruck: "Droga do Eleusis"
   * Adam Wajrak: "Wilki"
   * Coś o zegarmistrzostwie, a konkretniej o zegarkach mechanicznych naręcznych
