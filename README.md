@@ -5,11 +5,8 @@
 * Książki (mogą być używane):
   * Russell A. Barkley, Christine M. Benton: "Taking Charge of Adult Adhd, Second Edition: Proven Strategies to Succeed at Work, at Home, and in Relationships" (ważne: Second Edition)
   * Małgorzata Halber: "Hałas"
-  * Katherine May: "Przesilenie. Droga do siebie, kiedy przytłacza cię świat" 
   * Antoni Kępiński, dowolna z wyjątkiem: "Psychopatie", "Schizofrenia", "Z psychopatologii życia seksualnego" i biografii Krystyny Rożnowskiej "Gra z czasem"
-  * Adam Robiński: "Pałace na wodzie. Tropem polskich bobrów"
   * Jonathan Haidt: "Prawy umysł. Dlaczego dobrych ludzi dzieli religia i polityka?"
-  * Kacper Pobłocki: "Chamstwo"
   * Kamil Janicki: "Warcholstwo. Prawdziwa historia polskiej szlachty"
   * Paweł Kapusta: "Gad. Spowiedź klawisza"
   * Jan Gołębiowski: "Umysł przestępcy. Tajniki kryminalnego profilowania psychologicznego"
@@ -26,6 +23,7 @@
   * Alan Longstaff: "Neurobiologia"
   * Joachim Bauer: "Granica bólu. O źródłach agresji i przemocy"
   * Jakub Żulczyk: "Informacja zwrotna"
+  * Andrzej Pilipiuk: "Drogi przez morze"
   * Łukasz Orbitowski: "Wigilijne psy i inne opowieści" (nowsze, przeredagowane wydanie)
 * Książki do poczytania o ewentualnych nowych hobby, robótkach, DIY lub kontynuowania ich (mogą być używane):
   * Rebecca Millar: "Makrama pięciu żywiołów. 20 projektów pełnych harmonii"
